@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "41ccfddfa2cf95791cb9",
-    "url": "https://arielschwalb.github.io/csb-83be7/static/css/main.3e8580d3.chunk.css"
+    "revision": "b5a92f1850d9c6921901",
+    "url": "https://arielschwalb.github.io/csb-83be7/static/css/main.6856fd26.chunk.css"
   },
   {
-    "revision": "41ccfddfa2cf95791cb9",
-    "url": "https://arielschwalb.github.io/csb-83be7/static/js/main.2c26b427.chunk.js"
+    "revision": "b5a92f1850d9c6921901",
+    "url": "https://arielschwalb.github.io/csb-83be7/static/js/main.161fa830.chunk.js"
   },
   {
     "revision": "2dbc3a52ef6019e738b8",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "https://arielschwalb.github.io/csb-83be7/static/js/2.f3d7e44e.chunk.js"
   },
   {
-    "revision": "780fd7a95f35545929460372ab23d67c",
+    "revision": "86f57a92e33014d773ebffcc2c47233d",
     "url": "https://arielschwalb.github.io/csb-83be7/index.html"
   }
 ];
